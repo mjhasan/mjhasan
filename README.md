@@ -1,6 +1,6 @@
 ### Hi there, I'm Jahid 👋
 
-## I'm a Front-End Web Developer!!
+## I'm a MERN stack Web Developer!!
 - 🌱 I’m currently  learning everything
 - 🔭 I’m currently working on React.js
 - 🥅 2021 Goals: Learn Node.js, Express.js, Angular
