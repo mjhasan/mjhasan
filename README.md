@@ -1,9 +1,17 @@
 ### Hi there, I'm Jahid 👋
 
 ## I'm a Front-End Web Developer!!
-- 🌱 I’m currently learning everything
-- 🥅 Contribute more to Open Source projects
-- ⚡ I always try to do something new
+- 🔭 I’m currently working on React.js
+- 🌱 I’m currently  learning everything
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- -->
+- 🥅 2021 Goals: Learn Node.js, Express.js, Angular
 
 
 ### Connect with me:
