@@ -3,7 +3,6 @@
 ## I'm a MERN stack Web Developer!!
 - 🌱 I’m currently  learning everything
 - 🔭 I’m currently working on React.js
-- 🥅 2021 Goals: Learn Node.js, Express.js, Angular
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -12,6 +11,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🥅 2021 Goals: Learn Node.js, Express.js, Angular
 - -->
 
 
