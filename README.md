@@ -1,8 +1,10 @@
 ### Hi there, I'm Jahid 👋
 
 ## I'm a Front-End Web Developer!!
-- 🔭 I’m currently working on React.js
 - 🌱 I’m currently  learning everything
+- 🔭 I’m currently working on React.js
+- 🥅 2021 Goals: Learn Node.js, Express.js, Angular
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -11,7 +13,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - -->
-- 🥅 2021 Goals: Learn Node.js, Express.js, Angular
 
 
 ### Connect with me:
