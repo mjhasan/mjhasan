@@ -1,4 +1,4 @@
-### Hi there, I'm [Jahid][website] 👋
+### Hi there, I'm [Jahid](http://mjhasan.netlify.app/) 👋
 
 ## I'm a MERN stack Web Developer!!
 - 🌱 I’m currently  learning everything
