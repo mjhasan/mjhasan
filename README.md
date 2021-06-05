@@ -1,4 +1,4 @@
-### Hi there, I'm Jahid 👋
+### Hi there, I'm [Manik][website] 👋
 
 ## I'm a MERN stack Web Developer!!
 - 🌱 I’m currently  learning everything
