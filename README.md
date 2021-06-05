@@ -8,15 +8,8 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mjhasan)
+[![LinkedIn Md. Jahid Hasan](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mjhasan)
 
-<br />
-
-### Get Resume:
-
-[<img align="left" alt="Jahid | Resume" width="22px" src="https://i.ibb.co/Mkmms7H/clipart3085721.png" />][resume]
-
-<br />
 
 ### Languages and Tools:
 
